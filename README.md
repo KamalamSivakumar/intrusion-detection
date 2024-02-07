@@ -9,7 +9,7 @@ The feature selection is done using the Random Forest Classifier.
 
 The models compared are:
   1. Logistic Regression
-  2. K-NN
+  2. K-NN Clustering
   3. Naive-Bayes Classifier
   4. Random Forest Classifier
-  5. SVC
+  5. SVC Classifier
