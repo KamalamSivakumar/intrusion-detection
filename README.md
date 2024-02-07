@@ -1,5 +1,5 @@
 # intrusion-detection
-This project aims to compare the different models used to develop and intrusion detection system using the NSL-KDD dataset.
+This project aims to compare the different models used to develop an intrusion detection system using the NSL-KDD dataset.
 
 Dataset link: https://www.kaggle.com/datasets/hassan06/nslkdd
 
